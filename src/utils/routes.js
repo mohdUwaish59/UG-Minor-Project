@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://voot-server.herokuapp.com";
